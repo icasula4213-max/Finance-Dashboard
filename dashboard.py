@@ -186,4 +186,3 @@ st.caption(f"Data provided by Yahoo Finance via yfinance library • Last update
 
 
 
-
